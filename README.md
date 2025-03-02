@@ -1,3 +1,2 @@
 # mycollege
-this is my first github project <br>
-Author:afeef
+this is my first github project <br> Author:afeef
